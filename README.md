@@ -6,3 +6,4 @@
 - [Mermaid](/mermaid.md)
 - [Task Mermaid](/task_mermaid.md)
 - [Task Game](/README.md)
+- [BashCli](/bash_cli.md)
