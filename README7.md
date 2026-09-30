@@ -1,3 +1,7 @@
 # readmeworkk
 
-это мой репозиторий для операционных систем и сред ( сам. работы)
+Навигация
+- [Основы редактирования текста](/markdown.md)
+- [Mermaid](/mermaid.md)
+- [Task Mermaid](/task_mermaid.md)
+- [Task Game](/README.md)
