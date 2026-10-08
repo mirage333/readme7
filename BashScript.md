@@ -4,3 +4,45 @@
 
 * **Программы** - это скомпиллированные файлы, которые содержат двочиный код.
 
+```shell
+echo "Привет, Мир!"
+```
+```shell
+echo "Сегодня: $(date)"
+```
+```shell
+echo "Текущий пользователь: $USER"
+```
+
+
+Файл скрипта на Bash: `script.sh`
+
+```bash
+#!/bin/bash
+echo "Привет, Мир!"
+echo "Сегодня: $(date)"
+echo "Текущий пользователь: $USER"
+echo "Как вас зовут?"
+read name
+echo "Привет, $name! Добро пожаловать в bash-скриптинг"
+```
+#!/bin/bash - шибэнг, для ОС
+
+```bash
+#!/bin/bash
+
+read -p "Введите имя файла: " filename
+
+if [ -f "$filename" ]; then
+    echo "Файл '$filename' существует."
+else
+    echo "Файл '$filename' не найден (или это не обычный файл)."
+fi
+```
+
+Запуск скриптов:
+
+```shell
+sh script.sh
+bash script.sh
+./script.sh
