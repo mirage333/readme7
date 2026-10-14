@@ -8,4 +8,8 @@
 - [BashCli](/bash_cli.md)
 - [BashScript](/bashscripting/)
 - [Task Bash](/bashscripting/README.md)
+<<<<<<< HEAD
 - [Git](/Git.md)
+=======
+- Статический сайт на GitHub Pages
+>>>>>>> test
