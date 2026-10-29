@@ -9,5 +9,5 @@
 - [BashScript](/bashscripting/)
 - [Task Bash](/bashscripting/README.md)
 - [Git](/Git.md)
-- [Статический сайт на GitHub Pages](https://mirage333.github.io/site_static/)
+- [Статический сайт на GitHub Pages](https://github.com/mirage333/site_static)
 - [Репозиторий преподавателя](https://gitflic.ru/project/rurewa/mfua)
