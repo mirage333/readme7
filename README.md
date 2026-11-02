@@ -11,3 +11,4 @@
 - [Git](/Git.md)
 - [Статический сайт на GitHub Pages](https://github.com/mirage333/site_static)
 - [Репозиторий преподавателя](https://gitflic.ru/project/rurewa/mfua)
+- [Collab site](https://github.com/skapty6260/collab_test)
