@@ -271,3 +271,42 @@ sl -l
 sl -F
 ```
 Огонь
+```shell
+cacafire
+```
+Попугай
+```shell
+curl parrot.live
+```
+Бегущий человек
+```shell
+curl ascii.live/forrest
+```
+Поющий человек
+```shell
+curl ascii.live/can-you-hear-me
+```
+Аквариум
+```shell
+snap install asciiquarium && asciiquarium
+```
+или
+```shell
+docker run -it --rm macabees/asciiquarium
+```
+Выйти из аквариума по '**Q**'
+
+Хакерский терминал
+```shell
+docker run --rm -it bcbcarl/hollywood
+```
+Остановить показ по `Ctrl+C` и выйти `exit`
+
+Мнямка
+```shell
+nyancat
+```
+Дум
+```shell
+docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password kasmweb/doom:1.19.0
+```
