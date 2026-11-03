@@ -310,3 +310,14 @@ nyancat
 ```shell
 docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password kasmweb/doom:1.19.0
 ```
+[После установки открыть в браузере этот адрес](https://localhost:6901/)
+
+Логин: `kasm_user`
+Пароль: `password`
+
+***
+
+### Ресурсы
+
+- [Linux Cheat Sheet — шпаргалка по командам Linux](https://github.com/justxor/Linux-/)
+
