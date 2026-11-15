@@ -17,6 +17,7 @@ docker run -d --name jira -p 2990:8080 atlassian/jira-software:latest
 ```shell
 docker run -d --name jira -p 2990:8080 atlassian/jira-software
 ```
+![](image.png)
 
 Запустите лог Jira для наблюдением за процессом подготовки приложения:
 ```shell
@@ -27,5 +28,6 @@ docker logs -f jira
 Приложение, запущенное в контейнере может готовится долго, поэтому в браузере вы не сразу можете увидеть результат.
 
 По завершению подготовки можно открыть в браузере запущенное приложение **Jira**:
+![](image-1.png)
 
 [Зайти в админ-панель Jira в браузере по адреcу http://localhost:2990](http://localhost:2990)
