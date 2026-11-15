@@ -38,6 +38,5 @@ docker run -d \
 3. Проверьте
 ```shell
 curl http://localhost:8082/test.txt
-
-![](/Docker/HTTPserverFiles/imagee.png)
 ```
+![](image.png)
