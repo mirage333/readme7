@@ -30,7 +30,7 @@ netstat -aon | findstr :8088
 ```shell
 docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
 ```
-![](image.png)
+
 
 [Открыть http://localhost:8088 в браузере](http://localhost:8088)
 
@@ -53,17 +53,19 @@ uname -a
 ```shell
 cat /etc/os-release
 ```
-![](image-1.png)
+![](/img/cat.jpg)
 
 Диспетчер ресурсов
 ```shell
 top
 ```
-![](image-1.png)
+![](/img/top.jpg)
 
 ```shell
 tree
 ```
+![](/img/tree.jpg)
+
 Обновить источники приложений
 ```shell
 apk update && apk upgrade
@@ -76,7 +78,7 @@ apk add fastfetch
 ```shell
 fastfetch
 ```
-![](image-2.png)
+![](/img/fastfetch.jpg)
 
 Выйти из контейнера
 ```shell
